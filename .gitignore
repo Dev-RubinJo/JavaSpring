@@ -1,1 +1,3 @@
 SpringJDBC/web/WEB-INF/config/jdbc.*
+
+SpringMybatis/src/main/java/mybatis/SqlMapConfig.xml
